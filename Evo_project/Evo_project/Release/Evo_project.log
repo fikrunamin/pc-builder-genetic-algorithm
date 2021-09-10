@@ -1,0 +1,15 @@
+﻿  Source.cpp
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(44,11): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(187,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(422,38): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(438,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 560 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Evo_project.vcxproj -> F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Release\Evo_project.exe

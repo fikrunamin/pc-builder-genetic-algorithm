@@ -1,0 +1,14 @@
+﻿  Source.cpp
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(44,11): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(129,36): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(137,34): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(145,59): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(153,57): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(182,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(417,38): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Evo_project\Source.cpp(433,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Evo_project.vcxproj -> F:\My Storage\~ MFAm ~ Lectures\Semester 4\Evolutionary Computing\Mini Project\Evo_project\Evo_project\Debug\Evo_project.exe
